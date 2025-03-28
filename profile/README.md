@@ -1,5 +1,6 @@
 ## The Measurement and Computation of Fire Phenomena (MaCFP) Working Group
-Guidelines for participation in MaCFP-4 have been prepared and are available online:
+Guidelines for participation in MaCFP-4 have been prepared and will be made available online shortly.
+
 A virtual meeting to coordinate (1) the experimental component of the MaCFP-4 Pyrolysis Model Calibration exercise and (2) the modeling component of the MaCFP-4 Radiation Heat Transfer exercise was organized March 28, 2025 (9:00am EST). Presentation slides and a recording of this meeting (inlcuding discussions at the end) will be posted online shortly.
 
 <!--
